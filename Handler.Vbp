@@ -1,0 +1,15 @@
+Form=Handler.frm
+Reference=*\G{BEF6E001-A874-101A-8BBA-00AA00300CAB}#2.0#0#c:\WINDOWS\SYSTEM\OLEPRO32.DLL#Standard OLE Types
+ProjWinSize=87,532,187,111
+ProjWinShow=2
+IconForm="Handler"
+ExeName32="Handler.exe"
+Name="Project1"
+HelpContextID="0"
+StartMode=0
+VersionCompatible32="0"
+MajorVer=1
+MinorVer=0
+RevisionVer=0
+AutoIncrementVer=0
+ServerSupportFiles=0
